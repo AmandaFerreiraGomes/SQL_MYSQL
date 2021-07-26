@@ -20,11 +20,16 @@ CREATE TABLE tbCliente
     `SEXO` VARCHAR(1), /* masculino - M ou feminino - F */
     `LIMITE_CREDITO` FLOAT, 
     `VOLUME_COMPRA` FLOAT,
-    `PRIMEIRA_COMRA` BIT(1) /* se sim: 1, caso contrário: 0. Portanto, só aceita esses dois valores*/
+    `PRIMEIRA_COMRA` BIT(1) /* se sim: 1, caso contrário: 0. Portanto, só aceita esses dois valores */
 ); 
 
 /* cria-se a chave primária CPF em tbCliente. A chave primária será responsável por atuar como identificador do cliente, uma vez que nunca pode se repetir dentro da relação */
 ALTER TABLE tbCliente ADD PRIMARY KEY (CPF);
+
+/* digamos que o estabelecimento tenha informado depois de algum tempo que queria a data de nascimento como atributo para a relação tbCliente */
+
+/* altera-se tbCliente e adiciona-se o atributo idade */
+ALTER TABLE tbCliente ADD COLUMN (DATA_NASCIMENTO DATE);
 
 /* seleciona todas as entidades de tbproduto e faz uma projeção na tela */
 SELECT * FROM tbCliente;
