@@ -23,5 +23,9 @@ CREATE TABLE tbCliente
     `PRIMEIRA_COMRA` BIT(1) /* se sim: 1, caso contrário: 0. Portanto, só aceita esses dois valores*/
 ); 
 
+/* cria-se a chave primária CPF em tbCliente. A chave primária será responsável por atuar como identificador do cliente, uma vez que nunca pode se repetir dentro da relação */
+ALTER TABLE tbCliente ADD PRIMARY KEY (CPF);
+
 /* seleciona todas as entidades de tbproduto e faz uma projeção na tela */
 SELECT * FROM tbCliente;
+
