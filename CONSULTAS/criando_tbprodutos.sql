@@ -11,11 +11,14 @@ CREATE TABLE tbProduto
     `PRECO_LISTA` FLOAT
 );
 
+/* cria-se para tbProduto a chave primária no atributo CODIGO, a qual nunca poderá ter valor repetido dentro da relação */
+ALTER TABLE tbProduto ADD PRIMARY KEY (CODIGO);
+
 /* seleciona tudo o que está em tbproduto */
 SELECT * FROM tbProduto;
 
 
-/* insere em tbproduto novos produtos, com todos os atributos preenchidos*/
+/* insere em tbproduto novos produtos, com todos os atributos preenchidos */
 INSERT INTO tbproduto  
 ( 
 	CODIGO, 
@@ -34,3 +37,4 @@ INSERT INTO tbproduto
     ('1078680', 'FRESCOR DO VERÃO', 'GARRAFA', '470 ML', 'MANGA', 5.18), 
     ('1042712', 'LINHA CITROS', 'GARRAFA', '700 ML', 'LIMÃO', 4.90), 
     ('1002767', 'VIDEIRA DO CAMPO', 'GARRAFA', '700 ML', 'CEREJA/MAÇÃ', 8.41);
+
