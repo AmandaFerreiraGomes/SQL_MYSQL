@@ -4,7 +4,7 @@
 # SQL_MYSQL
 Meu portifólio com implementações de códigos em SQL no MYSQL. 
 
-# 1. CURSO DE CONSULTAS:
+# 1. MANIPULANDO E CONSULTANDO DADOS NO MYSQL WORKBENCH COM COMANDOS SQL:
 
 -> ex001: cria-se o banco de dados sucos, depois é criada a tabela tbCliente, na qual serão armazenadas as informações da entidade cliente.
 
