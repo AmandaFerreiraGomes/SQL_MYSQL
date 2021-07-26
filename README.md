@@ -6,13 +6,9 @@ Meu portifólio com implementações de códigos em SQL no MYSQL, de acordo com 
 
 # 1. MANIPULANDO E CONSULTANDO DADOS NO MYSQL WORKBENCH COM COMANDOS SQL:
 
--> ex001: cria-se o banco de dados sucos, depois é criada a tabela tbCliente, na qual serão armazenadas as informações da entidade cliente.
+-> ex001: cria-se o banco de dados sucos, depois é criada a tabela tbCliente, na qual serão armazenadas as informações da entidade cliente. É feito o uso de alguns comandos de manipulação, como alter table, insert into, 
 
-![image](https://user-images.githubusercontent.com/50182271/126996025-a1b727b8-791c-4222-af58-02021f6e28ae.png)
-
-Com o comando SELECT * FROM tbCliente, exibe-se a tabela completa, a qual ainda não foi populada com clientes.
-
-![image](https://user-images.githubusercontent.com/50182271/126996265-2a294db1-421b-4785-bd4f-285c27fa5e89.png)
+![image](https://user-images.githubusercontent.com/50182271/127037041-a6021fac-1c70-4351-9f95-f467acffb181.png)
 
 
 
