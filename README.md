@@ -11,4 +11,8 @@ Meu portifólio com implementações de códigos em SQL no MYSQL, de acordo com 
 ![image](https://user-images.githubusercontent.com/50182271/127037041-a6021fac-1c70-4351-9f95-f467acffb181.png)
 
 ___________________________________________________________________________________________________________________________________________________________________________________
--> ex002: 
+-> ex002: cria-se a tabela tbProduto, na qual serão inseridas informações referentes aos produtos que são vendidos no estabelecimento.
+
+![image](https://user-images.githubusercontent.com/50182271/127046889-bfd0f82b-9e4b-4220-abef-5d69f76d8981.png)
+
+___________________________________________________________________________________________________________________________________________________________________________________
