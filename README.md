@@ -1,4 +1,5 @@
-![image](https://user-images.githubusercontent.com/50182271/126998671-cbf3279c-0970-42d7-9619-67e40d2845aa.png)
+![image](https://user-images.githubusercontent.com/50182271/127007611-9c1c9766-5ba5-4099-8fff-b310763e1b31.png)
+
 
 # SQL_MYSQL
 Meu portifólio com implementações de códigos em SQL no MYSQL. 
