@@ -26,7 +26,7 @@ ________________________________________________________________________________
 
 ![image](https://user-images.githubusercontent.com/50182271/127083389-2ada2faf-ca7e-481b-8bd5-52627339469b.png)
 
-(2): dada a relação tbcliente, obtém-se a partir dela o cpf, o qual é renomeado(cria-se um nome fantasia para ele: cpf_cliente), assim como nome(o qual chama-se nome_cliente), após a inserção do comando ALIAS(AS).
+(2): dada a relação tbcliente, obtém-se a partir dela o cpf, o qual é renomeado(cria-se um nome fantasia para ele: cpf_cliente), assim como nome(o qual chama-se nome_cliente), após a inserção do comando ALIAS(AS). Com o uso do LIMIT, torna-se limitada a exibição de 7 clientes apenas.
 
 ![image](https://user-images.githubusercontent.com/50182271/127083449-f55e619d-d608-420d-b729-a8130aa5d370.png)
 
