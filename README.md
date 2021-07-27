@@ -68,6 +68,9 @@ ________________________________________________________________________________
 
 ![image](https://user-images.githubusercontent.com/50182271/127209194-a9b9a261-9b2b-4afe-9a7f-756cd785792b.png)
 
+(4): neste caso, aborda-se a filtragem dos produtos cujo preço em lista está entre R$ 19.504 e R$ 19.506, esperando-se encontrar o valor R$ 19.505, porque é do tipo ponto flutuante e não conseguimos precisar exatamente o valor.
 
+![image](https://user-images.githubusercontent.com/50182271/127209484-f9b7c28f-8557-4d02-a7a7-175a05f16032.png)
 
+(5): 
 
