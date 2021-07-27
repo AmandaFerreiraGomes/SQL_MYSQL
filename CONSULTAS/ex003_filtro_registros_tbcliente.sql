@@ -9,6 +9,13 @@ SELECT CPF, NOME FROM tbCliente; # (1)
 /* selecionam-se os sete primeiros registros da tabela tbcliente. renomeia-se os atributos cpf e nome com o uso do comando AS(ALIAS), o qual cria um nome fantasia. */
 SELECT CPF AS CPF_CLIENTE, NOME AS NOME_CLIENTE FROM tbCliente LIMIT 7; # (2)
 
+/* aplica-se o filtro em que serão exibidos apenas os registros que tem idade = 22 e cidade = 'rio de janeiro'. */
 SELECT * FROM tbCliente WHERE IDADE = 22 AND CIDADE = 'Rio de Janeiro'; # (3)
+
+/* aplica-se o filtro em que serão exibidos os registros cujas pessoas têm mais de 22 anos. */
+SELECT * FROM tbCliente WHERE IDADE > 22; # (4)
+ 
+/* aplica-se o filtro em que serão exibidos os registros cujas pessoas têm menos de 22 anos. */
+SELECT * FROM tbCliente WHERE IDADE < 22; # (5)
 
 
