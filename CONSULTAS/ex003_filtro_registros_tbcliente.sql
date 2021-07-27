@@ -18,4 +18,8 @@ SELECT * FROM tbCliente WHERE IDADE > 22; # (4)
 /* aplica-se o filtro em que serão exibidos os registros cujas pessoas têm menos de 22 anos. */
 SELECT * FROM tbCliente WHERE IDADE < 22; # (5)
 
+/* filtro para exibir apenas os clientes cuja idade é menor ou igual a 22 anos. */
+SELECT * FROM tbCliente WHERE IDADE <= 22; # (6)
 
+/* filtro para exibir os clientes cuja idade é diferente de 22 anos. */
+SELECT * FROM tbCliente WHERE IDADE <> 22; # (7)
