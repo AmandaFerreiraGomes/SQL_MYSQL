@@ -18,9 +18,11 @@ ________________________________________________________________________________
 ___________________________________________________________________________________________________________________________________________________________________________________
 Os dados até este ponto não foram tratados ainda. 
 
-___________________________________________________________________________________________________________________________________________________________________________________
+_________________________________________________________________________________________________________________________________________________________________________________
 # 2. APLICANDO FILTROS NOS REGISTROS:
-___________________________________________________________________________________________________________________________________________________________________________________
+_________________________________________________________________________________________________________________________________________________________________________________
+
+  Existem inúmeros filtros, os quais podem ser aplicados para fazer consultas. Isso varia de acordo com a necessidade do usuário.
 
 (1): de tbcliente, filtram-se os registros para que sejam exibidos apenas o cpf e o nome dos clientes.
 
@@ -29,4 +31,8 @@ ________________________________________________________________________________
 (2): dada a relação tbcliente, obtém-se a partir dela o cpf, o qual é renomeado(cria-se um nome fantasia para ele: cpf_cliente), assim como nome(o qual chama-se nome_cliente), após a inserção do comando ALIAS(AS). Com o uso do LIMIT, torna-se limitada a exibição de 7 clientes apenas, que são os sete primeiros que aparecem no registro do banco de dados.
 
 ![image](https://user-images.githubusercontent.com/50182271/127083449-f55e619d-d608-420d-b729-a8130aa5d370.png)
+
+(3): aplica-se um filtro, no qual são selecionados os registros que possuem idade igual a 22 anos E cidade igual a Rio de Janeiro.
+
+![image](https://user-images.githubusercontent.com/50182271/127149131-9bc51555-bd3e-430e-ad03-aa125cb9ddb5.png)
 
