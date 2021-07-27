@@ -20,7 +20,7 @@ CREATE TABLE tbCliente
     `SEXO` VARCHAR(1), /* masculino - M ou feminino - F */
     `LIMITE_CREDITO` FLOAT, 
     `VOLUME_COMPRA` FLOAT,
-    `PRIMEIRA_COMRA` BIT(1) /* se sim: 1, caso contrário: 0. Portanto, só aceita esses dois valores */
+    `PRIMEIRA_COMPRA` BIT(1) /* se sim: 1, caso contrário: 0. Portanto, só aceita esses dois valores */
 ); 
 
 /* cria-se a chave primária CPF em tbCliente. A chave primária será responsável por atuar como identificador do cliente, uma vez que nunca pode se repetir dentro da relação */
