@@ -43,3 +43,12 @@ ________________________________________________________________________________
 (5): aplica-se o filtro, no qual são selecionados os registros de pessoas cuja idade é menor que 22 anos.
 
 ![image](https://user-images.githubusercontent.com/50182271/127152858-2daef1e7-c624-4319-b1b2-762f08183164.png)
+
+(6): aplica-se um filtro para exibir os registros cuja idade é menor ou igual a 22 anos.
+
+![image](https://user-images.githubusercontent.com/50182271/127153626-e86f69d5-d276-4766-80ba-5493e0912073.png)
+
+(7): é aplicado um filtro em que serão selecionados os registros de todas as pessoas que possuem idade diferente de 22 anos.
+
+![image](https://user-images.githubusercontent.com/50182271/127153808-3c0b55b8-2d93-486f-81dd-c84d4a88fa56.png)
+
