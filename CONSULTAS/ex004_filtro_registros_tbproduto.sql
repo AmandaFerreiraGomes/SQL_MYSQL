@@ -24,4 +24,4 @@ no qual colocamos os valores em que o valor que queremos pode estar no meio, ou 
 SELECT * FROM tbProduto WHERE PRECO_LISTA BETWEEN 16.007 AND 16.009; # (4)
 
 /* pode-se também fazer um filtro para identificar os produtos cujo preço está acima de R$ 17,00. */
-SELECT * FROM tbProduto WHERE PRECO_LISTA > 17.00;
+SELECT * FROM tbProduto WHERE PRECO_LISTA > 17.00; # (5)
