@@ -19,7 +19,7 @@ ________________________________________________________________________________
 Os dados até este ponto não foram tratados ainda. 
 
 _________________________________________________________________________________________________________________________________________________________________________________
-# 2. APLICANDO FILTROS NOS REGISTROS:
+# 2. APLICANDO FILTROS NOS REGISTROS DA RELAÇÃO tbCliente:
 _________________________________________________________________________________________________________________________________________________________________________________
 
   Existem inúmeros filtros, os quais podem ser aplicados para fazer consultas. Isso varia de acordo com a necessidade do usuário.
@@ -51,4 +51,15 @@ ________________________________________________________________________________
 (7): é aplicado um filtro em que serão selecionados os registros de todas as pessoas que possuem idade diferente de 22 anos.
 
 ![image](https://user-images.githubusercontent.com/50182271/127153808-3c0b55b8-2d93-486f-81dd-c84d4a88fa56.png)
+
+_________________________________________________________________________________________________________________________________________________________________________________
+# 3. APLICANDO FILTROS NOS REGISTROS DA RELAÇÃO tbProduto:
+_________________________________________________________________________________________________________________________________________________________________________________
+
+(1): mostra-se a relação com todos os produtos cujo sabor é limão.
+
+![image](https://user-images.githubusercontent.com/50182271/127205543-14486521-bc5e-42fe-9a4c-ddea5084a155.png)
+
+(2):
+
 
