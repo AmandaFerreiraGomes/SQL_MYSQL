@@ -32,7 +32,7 @@ ________________________________________________________________________________
 
 ![image](https://user-images.githubusercontent.com/50182271/127083449-f55e619d-d608-420d-b729-a8130aa5d370.png)
 
-(3): aplica-se um filtro, no qual são selecionados os registros que possuem idade igual a 22 anos E cidade igual a Rio de Janeiro.
+(3): aplicam-se dois filtros, nos quais são selecionados os registros que possuem idade igual a 22 anos E cidade igual a Rio de Janeiro.
 
 ![image](https://user-images.githubusercontent.com/50182271/127149131-9bc51555-bd3e-430e-ad03-aa125cb9ddb5.png)
 
