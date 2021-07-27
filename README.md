@@ -60,6 +60,14 @@ ________________________________________________________________________________
 
 ![image](https://user-images.githubusercontent.com/50182271/127205543-14486521-bc5e-42fe-9a4c-ddea5084a155.png)
 
-(2):
+(2): após o update, no qual foi feita a substituição do sabor, de limão para cítricos, mostra-se o resultado tentando exibir os registros nos quais existe o sabor limão.
+
+![image](https://user-images.githubusercontent.com/50182271/127209135-4723c3ca-913c-4048-82e0-9670d086dbdb.png)
+
+(3): por fim, mostra-se os registros com o sabor cítricos, resultante do update aplicado.
+
+![image](https://user-images.githubusercontent.com/50182271/127209194-a9b9a261-9b2b-4afe-9a7f-756cd785792b.png)
+
+
 
 
