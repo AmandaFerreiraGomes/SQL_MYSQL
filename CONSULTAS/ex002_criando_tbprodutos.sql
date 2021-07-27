@@ -36,7 +36,7 @@ INSERT INTO tbproduto
     ('544931', 'FRESCOR DO VERÃO', 'LATA', '350 ML', 'LIMÃO', 2.46), 
     ('1078680', 'FRESCOR DO VERÃO', 'GARRAFA', '470 ML', 'MANGA', 5.18), 
     ('1042712', 'LINHA CITROS', 'GARRAFA', '700 ML', 'LIMÃO', 4.90), 
-    ('1002767', 'VIDEIRA DO CAMPO', 'GARRAFA', '700 ML', 'CEREJA/MAÇÃ', 8.41)
+    ('1002767', 'VIDEIRA DO CAMPO', 'GARRAFA', '700 ML', 'CEREJA/MAÇÃ', 8.41),
     ('231776', 'Festival de Sabores', 'Garrafa', '700 ML', 'Açai', 13.312),
 	('479745', 'Clean', 'Garrafa', '470 ML', 'Laranja', 3.768),
 	('1051518', 'Frescor do Verão', 'Garrafa', '470 ML', 'Limão', 3.2995),
