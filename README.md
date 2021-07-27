@@ -72,5 +72,6 @@ ________________________________________________________________________________
 
 ![image](https://user-images.githubusercontent.com/50182271/127209484-f9b7c28f-8557-4d02-a7a7-175a05f16032.png)
 
-(5): 
+(5): são exibidos os registros em que o preco_lista, que é o preço do produto por unidade, está acima de R$ 17,00.
 
+![image](https://user-images.githubusercontent.com/50182271/127220470-7ee2268d-0f39-445c-a96e-e4201589dd99.png)
