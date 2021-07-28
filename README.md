@@ -2,7 +2,7 @@
 
   Meu portifólio com implementações de códigos em SQL no MYSQL, de acordo com o que foi aprendido no curso da ALURA (INTRODUÇÃO AO SQL COM MYSQL: MANIPULE E CONSULTE DADOS). Neste repositório estão inseridos códigos e exemplos de implementações as quais foram feitas durante o curso.
   Aplica-se neste projeto a implementação física de um projeto de banco de dados, a qual nasce após uma longa jornada de modelagem, do modelo conceitual para o modelo lógico.
- * As tabelas que resultam das consultas, da aplicação de filtros, não são persistidas/armazenadas. Estão apenas a título de exibição.
+ * As tabelas que resultam das consultas, da aplicação de filtros, não são persistidas/armazenadas no banco de dados. Estão apenas a título de ilustração das consultas realizadas.
 ___________________________________________________________________________________________________________________________________________________________________________________
 # 1. CRIANDO O BANCO DE DADOS `SUCOS`, CRIANDO AS RELAÇÕES(TABELAS TBCLIENTE, TBPRODUTO) DO BANCO DE DADOS E INSERINDO ELEMENTOS NAS RELAÇÕES:
 ___________________________________________________________________________________________________________________________________________________________________________________
